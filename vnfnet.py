@@ -1,15 +1,14 @@
-# VNFnet v6.0.2
+# VNFnet Simulator v10.0.1
 # VNF Simulation Laboratory | Fork of VNFnet2018
-# Anestis Dalgkitsis ✖️ | Started 29 March 2020
-# 23 Jan 2022
+# Dr. Anestis Dalgkitsis ✖️ | VNFnet2020 started 29 March 2020 | Last update of VNFnet2020: 23 Jan 2022
 
 # Python Modules
 
 import os
-import json
 import warnings
 import networkx as nx
 import matplotlib.pyplot as plt
+
 # Apple ARM Fix
 # import matplotlib  
 # matplotlib.use('Qt5Agg')
